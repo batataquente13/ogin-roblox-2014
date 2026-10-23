@@ -44,3 +44,9 @@ img{
     margin: 0 auto;
     display: block;
 }
+
+a{
+    background-color: rgba(0, 255, 255, 0);
+     border: none;
+    
+}
